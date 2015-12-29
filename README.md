@@ -18,5 +18,5 @@ com.asto.dmp.taobaowarn.base.Main
 例如：/taobao\_warn/offline/output/201512/24/1450940985/c\_shop\_result
 输出文件有：b\_shop\_closed、b\_shop\_scores、b\_shop\_result、c\_shop\_closed、c\_shop\_scores、c\_shop\_result
 shop\_closed文件输出关闭的店铺shop_id
-shop\_scores文件输出各项店铺的经营指标得分和最终得分
-shop\_result文件输出shop\_id和相应的预警级别
+shop\_scores文件输出各项店铺的经营指标得分和最终得分  
+shop\_result文件输出shop\_id和相应的预警级别  
